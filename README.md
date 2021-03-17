@@ -1,2 +1,2 @@
-# javascript-cheat-sheet
-cliff notes for javascript
+# javascript-for-slackers
+cliff notes for javascript. work in progress
